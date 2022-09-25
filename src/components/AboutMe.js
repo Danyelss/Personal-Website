@@ -20,25 +20,23 @@ function AboutMe() {
                     <p>
                         This should be a self description (boring). <br />But how could one describe himself, and not present a favorable impression, willing to project it into the reader's mind ?<br />
                         Therefore, I asked my friends for a brief view onto myself: <br />
-                        
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                        eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                        Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                        laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-                        irure dolor in reprehenderit in voluptate velit esse cillum
-                        dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                        cupidatat non proident,sunt in culpa qui officia deserunt
-                        mollit anim id est laborum.<br />
-
+                    </p>
+                    <p>
+                        “You always knew that a problem needs a solution, thing that has contributed to your development.
+                        Patience and determination are your stroing points, those are helping you to touch your maximum potential
+                        and your perseverance benefited you to embrace failure and start again.”<br />
+                    </p>
+                    <p>
                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem
                         accusantium doloremque laudantium, totam rem aperiam, eaque
                         ipsa quae ab illo inventore veritatis et quasi architecto
                         beatae vitae dicta sunt explicabo.<br />
-
+                    </p>
+                    <p>
                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem
                         accusantium doloremque laudantium, totam rem aperiam, eaque
                         ipsa quae ab illo inventore veritatis et quasi architecto
-                        beatae vitae dicta sunt explicabo.<br />
+                        beatae vitae dicta sunt explicabo.
                     </p>
                     <div className='projectsImages'>
                         <div>
@@ -48,7 +46,7 @@ function AboutMe() {
                                     <img src={github} className="iconsEducation"></img>
                                 </a>
                                 <div>
-                                    <div className='githubProjectsNumber'>19</div>
+                                    <div className='githubProjectsNumber'>20</div>
                                     <div>Open-source<br />
                                         projects</div>
                                 </div>
