@@ -117,13 +117,23 @@ img {
 }
 
 .column-center {
+  display: flex;
   flex-direction: column;
   width: 0.5px;
-  background-color: white;
-  opacity: 30%;
+  background-color: rgb(190, 190, 190);
+  opacity: 90%;
 }
 
 @media (max-width: 1440px) {
+
+  .column-center {
+    flex-direction: row;
+    min-width: 100%;
+    width: 1px;
+    background-color: rgb(190, 190, 190);
+    opacity: 90%;
+  }
+
   .column-left {
     display: flex;
     flex-direction: column;
@@ -132,15 +142,6 @@ img {
     text-align: center;
     justify-content: center;
     align-items: center;
-    min-width: 100%;
-  }
-
-  .column-center {
-    display: flex;
-    flex-direction: row;
-    height: 1px;
-    background-color: white;
-    opacity: 30%;
     min-width: 100%;
   }
 
@@ -161,7 +162,7 @@ img {
     background-color: rgba(0, 0, 0, 0.589);
     min-height: 135vh;
     width: 99vw;
-
+  
     font-family: 'Times New Roman', Times, serif;
     font-size: 17px;
     display: flex;
@@ -169,7 +170,13 @@ img {
     align-items: center;
   }
 
-
+  .column-center {
+    flex-direction: row;
+    min-width: 100%;
+    height: 0.5px;
+    background-color: rgb(190, 190, 190);
+    opacity: 90%;
+  }
 }
 
 .column-right {
@@ -230,7 +237,6 @@ img {
 }
 
 .githubProjectsNumber {
-  padding-top: 0px;
   font-size: 30px;
   font-weight: bold;
   font-family: 'Courier New', Courier, monospace;
