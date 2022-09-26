@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Personal-Website/static/css/main.391227fd.css",
+    "main.js": "/Personal-Website/static/js/main.b34b2a3e.js",
+    "static/js/787.a71561b8.chunk.js": "/Personal-Website/static/js/787.a71561b8.chunk.js",
+    "static/media/cv-background.jpg": "/Personal-Website/static/media/cv-background.dbc3fb6f57d08d8302cc.jpg",
+    "static/media/epe.png": "/Personal-Website/static/media/epe.610a20a9887f47271ee0.png",
+    "static/media/university.png": "/Personal-Website/static/media/university.aa49848539279a07cbc7.png",
+    "static/media/vistaWellbeing.png": "/Personal-Website/static/media/vistaWellbeing.bb310b6991dd5de7f891.png",
+    "static/media/CV-Profile.png": "/Personal-Website/static/media/CV-Profile.73145eb8d268e90e50e3.png",
+    "static/media/github.png": "/Personal-Website/static/media/github.2231b0a0e75542078dd9.png",
+    "static/media/puri.png": "/Personal-Website/static/media/puri.1f46fda11c14a0023e85.png",
+    "static/media/in.png": "/Personal-Website/static/media/in.6d4663bbd2612a50f0c0.png",
+    "static/media/web.png": "/Personal-Website/static/media/web.e59fa3336fbd9239dae8.png",
+    "static/media/API.png": "/Personal-Website/static/media/API.3146535d01b6332bbfb3.png",
+    "static/media/csmOradea.png": "/Personal-Website/static/media/csmOradea.b63c2eb459a5a7b12162.png",
+    "static/media/cv.png": "/Personal-Website/static/media/cv.b8bc36061b4c372eadff.png",
+    "static/media/nedaviSolar.png": "/Personal-Website/static/media/nedaviSolar.cddf94e1ac6e2269e6b4.png",
+    "static/media/logo.svg": "/Personal-Website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Personal-Website/index.html",
+    "main.391227fd.css.map": "/Personal-Website/static/css/main.391227fd.css.map",
+    "main.b34b2a3e.js.map": "/Personal-Website/static/js/main.b34b2a3e.js.map",
+    "787.a71561b8.chunk.js.map": "/Personal-Website/static/js/787.a71561b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.391227fd.css",
+    "static/js/main.b34b2a3e.js"
+  ]
+}
