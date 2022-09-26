@@ -161,7 +161,7 @@ img {
     background-color: rgba(0, 0, 0, 0.589);
     min-height: 135vh;
     width: 99vw;
-  
+
     font-family: 'Times New Roman', Times, serif;
     font-size: 17px;
     display: flex;
@@ -169,23 +169,7 @@ img {
     align-items: center;
   }
 
-  .vistaWellbeing {
-    height: 70px;
-    width: 176px;
-    min-width: 100%;
-  }
-  
-  .nedaviSolar {
-    height: 80px;
-    width: 180px;
-    min-width: 100%;
-  }
-  
-  .puri {
-    height: 80px;
-    width: 80px;
-    min-width: 100%;
-  }
+
 }
 
 .column-right {
