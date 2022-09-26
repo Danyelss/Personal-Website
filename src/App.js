@@ -9,7 +9,7 @@ import Experience from './components/Experience';
 
 function App() {
   return (
-    <div className="App imgBackground box zoom">
+    <div className="App imgBackground">
       <header className="App-header">
         <ChangingText />
       </header>

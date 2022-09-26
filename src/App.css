@@ -2,17 +2,6 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 .App-header {
   min-height: 50vh;
   display: flex;
@@ -30,14 +19,10 @@ body {
   width: 99vw;
 
   font-family: 'Times New Roman', Times, serif;
-  font-size: 2vh;
+  font-size: 25px;
   display: flex;
   flex-direction: column;
   align-items: center;
-}
-
-.App-link {
-  color: #61dafb;
 }
 
 .imgBackground {
@@ -101,8 +86,6 @@ img {
 }
 
 .cvProfile {
-  padding-left: 0%;
-
   width: 244px;
   height: 300px;
 }
@@ -168,6 +151,14 @@ img {
 
 }
 
+@media (max-width: 1080px) {
+  .TitleLeft {
+    text-align: start;
+    width: 89%;
+  }
+
+}
+
 .column-right {
   padding-left: 30px;
   display: flex;
@@ -177,7 +168,6 @@ img {
 }
 
 .university {
-  padding-left: 17%;
   width: 200px;
   height: 200px;
 }
