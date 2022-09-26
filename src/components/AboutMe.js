@@ -23,14 +23,14 @@ function AboutMe() {
                         Therefore, I asked two of my friends for a brief view onto myself: <br />
                     </p>
                     <p>
-                        “You always knew that a problem needs a solution, thing that has contributed to your development. <br />
-                        Patience and determination are your strong points, those are helping you touch your maximum potential
-                        and your perseverance benefited you to embrace failure and start again.”<br />
+                        <i> “You always knew that a problem needs a solution, thing that has contributed to your development. <br />
+                            Patience and determination are your strong points, those are helping you touch your maximum potential
+                            and your perseverance benefited you to embrace failure and start again.”</i>
                     </p>
                     <p>
-                        “You always had a talent in working with people and are always proactive in all social and proffesional interactions.
-                        Your hunger for learning and doing new things sets you apart from others and you are continuously looking for things
-                        that help you grow.”
+                        <i>“You have a talent in working with people and are always proactive in all social and professional interactions.
+                            Your hunger for learning and doing new things sets you apart from others and you are continuously looking for things
+                            that help you grow.”</i>
                     </p>
                     <div className='projectsImages'>
                         <div>

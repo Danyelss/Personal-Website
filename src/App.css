@@ -19,7 +19,7 @@ body {
   width: 99vw;
 
   font-family: 'Times New Roman', Times, serif;
-  font-size: 25px;
+  font-size: 20px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -156,19 +156,6 @@ img {
     text-align: start;
     width: 89%;
   }
-
-  body {
-    background-color: rgba(0, 0, 0, 0.589);
-    min-height: 135vh;
-    width: 99vw;
-  
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-
 }
 
 .column-right {
