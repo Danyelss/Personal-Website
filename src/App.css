@@ -168,6 +168,24 @@ img {
     flex-direction: column;
     align-items: center;
   }
+
+  .vistaWellbeing {
+    height: 70px;
+    width: 176px;
+    min-width: 100%;
+  }
+  
+  .nedaviSolar {
+    height: 80px;
+    width: 180px;
+    min-width: 100%;
+  }
+  
+  .puri {
+    height: 80px;
+    width: 80px;
+    min-width: 100%;
+  }
 }
 
 .column-right {
