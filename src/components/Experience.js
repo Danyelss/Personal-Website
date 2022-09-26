@@ -27,7 +27,7 @@ function Experience() {
                     <p>Main responsibilities:</p>
                     <ul>
                         <li>Make sure that we work towards the proposed goals</li>
-                        <li>Help colegues</li>
+                        <li>Help colleagues</li>
                         <li>Make decisions that will bring us closer to the final result</li>
                         <li>Write code and implement logic</li>
                         <li>Replicate the design</li>
