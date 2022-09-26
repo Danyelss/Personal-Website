@@ -30,10 +30,10 @@ body {
   height: 100%;
   width: 100%;
 
-  background-position: center;
+  background-position: right;
   background-repeat: no-repeat;
   background-size: cover;
-  object-fit: cover;
+  object-fit: none;
 }
 
 img {
@@ -155,6 +155,18 @@ img {
   .TitleLeft {
     text-align: start;
     width: 89%;
+  }
+
+  body {
+    background-color: rgba(0, 0, 0, 0.589);
+    min-height: 135vh;
+    width: 99vw;
+  
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 
 }
