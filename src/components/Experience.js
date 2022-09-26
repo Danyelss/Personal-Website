@@ -1,6 +1,5 @@
 import '../App.css';
 
-import University from "../../src/images/university.png"
 import techStackApps from "../../src/images/techStackAppsW.png"
 import epe from "../../src/images/epe.png"
 import vistaWellbeing from "../../src/images/vistaWellbeing.png"
@@ -14,10 +13,11 @@ function Experience() {
             <h3 className='titleText'>EXPERIENCE</h3>
             <div class='row'>
                 <div class='column-left'>
-                    <a href="https://techstackapps.com/" target="_blank">
-                        <img src={techStackApps} className="techStackApps"></img>
+                    <a href="https://techstackapps.com/" target="_blank" rel="noreferrer">
+                        <img alt='logo' src={techStackApps} className="techStackApps"></img>
                     </a>
                 </div>
+                <div class='column-center' />
                 <div class='column-right'>
                     <div className='rowTitle'>
                         <h3>Flutter developer</h3>
@@ -33,8 +33,8 @@ function Experience() {
                         <li>Replicate the design</li>
                     </ul>
                     <div className='projectsImages'>
-                        <a href="https://play.google.com/store/apps/details?id=com.techstackapps.csmoradea" target="_blank">
-                            <img src={csmOradea} className="csmOradea"></img>
+                        <a href="https://play.google.com/store/apps/details?id=com.techstackapps.csmoradea" target="_blank" rel="noreferrer">
+                            <img alt='logo' src={csmOradea} className="csmOradea"></img>
                         </a>
 
                     </div>
@@ -48,14 +48,14 @@ function Experience() {
                         The projects I worked on:
                     </p>
                     <div className='projectsImages'>
-                        <a href="https://play.google.com/store/apps/details?id=com.techstackapps.smartnedavi" target="_blank">
-                            <img src={nedaviSolar} className="nedaviSolar"></img>
+                        <a href="https://play.google.com/store/apps/details?id=com.techstackapps.smartnedavi" target="_blank" rel="noreferrer">
+                            <img alt='logo' src={nedaviSolar} className="nedaviSolar"></img>
                         </a>
-                        <a href="https://play.google.com/store/apps/details?id=com.saeace.vista" target="_blank">
-                            <img src={vistaWellbeing} className="vistaWellbeing"></img>
+                        <a href="https://play.google.com/store/apps/details?id=com.saeace.vista" target="_blank" rel="noreferrer">
+                            <img alt='logo' src={vistaWellbeing} className="vistaWellbeing"></img>
                         </a>
-                        <a href="https://play.google.com/store/apps/details?id=com.tekzee.puri" target="_blank">
-                            <img src={puri} className="puri"></img>
+                        <a href="https://play.google.com/store/apps/details?id=com.tekzee.puri" target="_blank" rel="noreferrer">
+                            <img alt='logo' src={puri} className="puri"></img>
                         </a>
                     </div>
                     <div className='rowTitle timelineTop'>
@@ -68,22 +68,25 @@ function Experience() {
                         <li>Job queuing using Redux and execute logic </li>
                         <li>Microservices creation using Docker</li>
                         <li>Node-Red: upgrade and add mandatory features on the IoT devices</li>
-                        <li>test functionalities</li>
+                        <li>Test functionalities</li>
                     </ul>
                     <div className='projectImage'>
-                        <a href="https://play.google.com/store/apps/details?id=com.techstackapps.smartnedavi" target="_blank">
-                            <img src={nedaviSolar} className="nedaviSolar"></img>
+                        <a href="https://play.google.com/store/apps/details?id=com.techstackapps.smartnedavi" target="_blank" rel="noreferrer">
+                            <img alt='logo' src={nedaviSolar} className="nedaviSolar"></img>
                         </a>
 
                     </div>
                 </div>
             </div>
+            <p />
             <div class='row'>
                 <div class='column-left'>
-                    <a href="https://encodeplusenergy.ro/en/" target="_blank">
-                        <img src={epe} className="epe"></img>
+                    <a href="https://encodeplusenergy.ro/en/" target="_blank" rel="noreferrer">
+                        <img alt='logo' src={epe} className="epe"></img>
                     </a>
                 </div>
+                <div className='small-distance' />
+                <div class='column-center' />
                 <div class='column-right'>
                     <div className='rowTitle'>
                         <h3>Collaborative Robot Programmer</h3>

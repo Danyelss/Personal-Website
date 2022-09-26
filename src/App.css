@@ -130,6 +130,42 @@ img {
   text-align: center;
   justify-content: center;
   align-items: center;
+  min-width: 288px;
+}
+
+.column-center {
+  flex-direction: column;
+  width: 0.5px;
+  background-color: white;
+  opacity: 30%;
+}
+
+@media (max-width: 1440px) {
+  .column-left {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 0.4;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    min-width: 100%;
+  }
+
+  .column-center {
+    display: flex;
+    flex-direction: row;
+    height: 1px;
+    background-color: white;
+    opacity: 30%;
+    min-width: 100%;
+  }
+
+  .small-distance {
+    height: 10px;
+    min-width: 100%;
+  }
+
 }
 
 .column-right {
