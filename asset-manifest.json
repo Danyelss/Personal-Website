@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/Personal-Website/static/css/main.5feadaf4.css",
+    "main.css": "/Personal-Website/static/css/main.f5817e5d.css",
     "main.js": "/Personal-Website/static/js/main.20c21f1c.js",
     "static/js/787.a71561b8.chunk.js": "/Personal-Website/static/js/787.a71561b8.chunk.js",
-    "static/media/cv-background2.jpg": "/Personal-Website/static/media/cv-background2.956976215e2cd3daf44e.jpg",
+    "static/media/cv-background2.jpg": "/Personal-Website/static/media/cv-background2.f0e2fe73b2ad3f8cd9da.jpg",
     "static/media/epe.png": "/Personal-Website/static/media/epe.610a20a9887f47271ee0.png",
     "static/media/university.png": "/Personal-Website/static/media/university.aa49848539279a07cbc7.png",
     "static/media/NonDisclosure.png": "/Personal-Website/static/media/NonDisclosure.7b3ae5ad322a7d3c0314.png",
@@ -17,12 +17,12 @@
     "static/media/cv.png": "/Personal-Website/static/media/cv.b8bc36061b4c372eadff.png",
     "static/media/nedaviSolar.png": "/Personal-Website/static/media/nedaviSolar.cddf94e1ac6e2269e6b4.png",
     "index.html": "/Personal-Website/index.html",
-    "main.5feadaf4.css.map": "/Personal-Website/static/css/main.5feadaf4.css.map",
+    "main.f5817e5d.css.map": "/Personal-Website/static/css/main.f5817e5d.css.map",
     "main.20c21f1c.js.map": "/Personal-Website/static/js/main.20c21f1c.js.map",
     "787.a71561b8.chunk.js.map": "/Personal-Website/static/js/787.a71561b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5feadaf4.css",
+    "static/css/main.f5817e5d.css",
     "static/js/main.20c21f1c.js"
   ]
 }
