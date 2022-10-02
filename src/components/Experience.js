@@ -2,7 +2,7 @@ import '../App.css';
 
 import techStackApps from "../../src/images/techStackAppsW.png"
 import epe from "../../src/images/epe.png"
-import vistaWellbeing from "../../src/images/vistaWellbeing.png"
+import nonDisclosure from "../../src/images/NonDisclosure.png"
 import nedaviSolar from "../../src/images/nedaviSolar.png"
 import csmOradea from "../../src/images/csmOradea.png"
 import puri from "../../src/images/puri.png"
@@ -51,9 +51,9 @@ function Experience() {
                         <a href="https://play.google.com/store/apps/details?id=com.techstackapps.smartnedavi" target="_blank" rel="noreferrer">
                             <img alt='logo' src={nedaviSolar} className="nedaviSolar"></img>
                         </a>
-                        <a href="https://play.google.com/store/apps/details?id=com.saeace.vista" target="_blank" rel="noreferrer">
-                            <img alt='logo' src={vistaWellbeing} className="vistaWellbeing"></img>
-                        </a>
+                        {/* <a href="https://play.google.com/store/apps/details?id=com.saeace.vista" target="_blank" rel="noreferrer"> */}
+                            <img alt='logo' src={nonDisclosure} className="nonDisclosure"></img>
+                        {/* </a> */}
                         <a href="https://play.google.com/store/apps/details?id=com.tekzee.puri" target="_blank" rel="noreferrer">
                             <img alt='logo' src={puri} className="puri"></img>
                         </a>
