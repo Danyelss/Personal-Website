@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/Personal-Website/static/css/main.0176a60b.css",
-    "main.js": "/Personal-Website/static/js/main.6ccff16d.js",
+    "main.css": "/Personal-Website/static/css/main.be69d33c.css",
+    "main.js": "/Personal-Website/static/js/main.20c21f1c.js",
     "static/js/787.a71561b8.chunk.js": "/Personal-Website/static/js/787.a71561b8.chunk.js",
     "static/media/cv-background.jpg": "/Personal-Website/static/media/cv-background.dbc3fb6f57d08d8302cc.jpg",
     "static/media/epe.png": "/Personal-Website/static/media/epe.610a20a9887f47271ee0.png",
     "static/media/university.png": "/Personal-Website/static/media/university.aa49848539279a07cbc7.png",
-    "static/media/vistaWellbeing.png": "/Personal-Website/static/media/vistaWellbeing.bb310b6991dd5de7f891.png",
+    "static/media/NonDisclosure.png": "/Personal-Website/static/media/NonDisclosure.7b3ae5ad322a7d3c0314.png",
     "static/media/CV-Profile.png": "/Personal-Website/static/media/CV-Profile.73145eb8d268e90e50e3.png",
     "static/media/github.png": "/Personal-Website/static/media/github.2231b0a0e75542078dd9.png",
     "static/media/puri.png": "/Personal-Website/static/media/puri.1f46fda11c14a0023e85.png",
@@ -17,12 +17,12 @@
     "static/media/cv.png": "/Personal-Website/static/media/cv.b8bc36061b4c372eadff.png",
     "static/media/nedaviSolar.png": "/Personal-Website/static/media/nedaviSolar.cddf94e1ac6e2269e6b4.png",
     "index.html": "/Personal-Website/index.html",
-    "main.0176a60b.css.map": "/Personal-Website/static/css/main.0176a60b.css.map",
-    "main.6ccff16d.js.map": "/Personal-Website/static/js/main.6ccff16d.js.map",
+    "main.be69d33c.css.map": "/Personal-Website/static/css/main.be69d33c.css.map",
+    "main.20c21f1c.js.map": "/Personal-Website/static/js/main.20c21f1c.js.map",
     "787.a71561b8.chunk.js.map": "/Personal-Website/static/js/787.a71561b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0176a60b.css",
-    "static/js/main.6ccff16d.js"
+    "static/css/main.be69d33c.css",
+    "static/js/main.20c21f1c.js"
   ]
 }
