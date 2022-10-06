@@ -55,7 +55,7 @@ function AboutMe() {
                         </div>
                         <div>
                             <div className='row'>
-                                <a href="https://drive.google.com/file/d/1iaGfOqGeY_z8UUsdDEJU1xzaw3Pdsif_/view?usp=sharing" target="_blank" rel="noreferrer">
+                                <a href="https://drive.google.com/file/d/1sXUR-jLHbMZBX6kZ1oO9N-rSJmhUlXy-/view?usp=sharing" target="_blank" rel="noreferrer">
                                     <img alt='logo' src={cv} className="iconsAboutMe"></img>
                                 </a>
                             </div>

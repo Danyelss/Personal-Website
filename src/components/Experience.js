@@ -20,7 +20,7 @@ function Experience() {
                 <div class='column-center' />
                 <div class='column-right'>
                     <div className='rowTitle'>
-                        <h3>Flutter developer</h3>
+                        <h3>Full Stack Developer</h3>
                         <h3 className='timelinePadding '>Dec 2021 - Present</h3>
                     </div>
                     <p><b>Team Lead</b> - CSM Oradea Mobile App - Flutter</p>
@@ -64,7 +64,7 @@ function Experience() {
                     </div>
                     <ul>
                         <li>Develop backend solutions for data persistence using MongoDB </li>
-                        <li>End to end communication between Iot devices and mobile clients using HTTP and MQTT (GCP) channels of transmission.</li>
+                        <li>End to end communication between IoT devices and mobile clients using HTTP and MQTT (GCP) channels of transmission.</li>
                         <li>Job queuing using Redux and execute logic </li>
                         <li>Microservices creation using Docker</li>
                         <li>Node-Red: upgrade and add mandatory features on the IoT devices</li>
