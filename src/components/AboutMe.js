@@ -11,12 +11,12 @@ function AboutMe() {
         <div className='TitleLeft'>
             <h3 className='titleText'>ABOUT ME</h3>
 
-            <div class='row'>
-                <div class='column-left'>
+            <div className='row'>
+                <div className='column-left'>
                     <img alt='portrait' src={Profile} className="cvProfile"></img>
                     <p>Daniel - Ciprian Moș</p>
                 </div>
-                <div class='column-right'>
+                <div className='column-right'>
                     <p>
                         This should be a self description (boring). <br />But how could one describe himself, and not present a favorable impression,
                         willing to project it into the reader's mind ?<br />
@@ -37,7 +37,7 @@ function AboutMe() {
 
                             <div className='row'>
                                 <a href="https://github.com/Danyelss" target="_blank" rel="noreferrer">
-                                    <img alt='logo' src={github} className="iconsEducation"></img>
+                                    <img alt='logo' src={github} className="iconsEducation shake shake-in1"></img>
                                 </a>
                                 <div>
                                     <div className='githubProjectsNumber'>20</div>
@@ -49,14 +49,14 @@ function AboutMe() {
                         <div>
                             <div className='row'>
                                 <a href="https://www.linkedin.com/in/daniel-ciprian-mos-406486209/" target="_blank" rel="noreferrer">
-                                    <img alt='logo' src={linkedin} className="iconsEducation"></img>
+                                    <img alt='logo' src={linkedin} className="iconsEducation shake shake-in3"></img>
                                 </a>
                             </div>
                         </div>
                         <div>
                             <div className='row'>
                                 <a href="https://drive.google.com/file/d/1sXUR-jLHbMZBX6kZ1oO9N-rSJmhUlXy-/view?usp=sharing" target="_blank" rel="noreferrer">
-                                    <img alt='logo' src={cv} className="iconsAboutMe"></img>
+                                    <img alt='logo' src={cv} className="iconsAboutMe shake shake-in2"></img>
                                 </a>
                             </div>
                         </div>

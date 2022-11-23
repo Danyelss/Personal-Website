@@ -13,26 +13,26 @@ function Education() {
             <h3 className='titleText'>EDUCATION</h3>
 
             <div className='row'>
-                <div class='column-left'>
+                <div className='column-left'>
                     <a href="https://www.utcluj.ro/en/" target="_blank" rel="noreferrer">
                         <img alt='logo' src={University} className="university"></img>
                     </a>
                 </div>
-                <div class='column-center' />
-                <div class='column-right'>
+                <div className='column-center' />
+                <div className='column-right'>
                     <h3>Faculty of Automation and Computer Science</h3>
                     <p> Licensed in Automation Engineering</p>
-                    <p>Thesis: <b>Management system of digital assets</b></p>
+                    <p className='reveal fade-left'>Thesis: <b>Management system of digital assets</b></p>
                     <div className='rowTitle'>
                         <p>Source Code:</p>
                         <a href="https://github.com/Danyelss/License-Backend-Spring-Boot" target="_blank" rel="noreferrer">
-                            <img alt='logo' src={API} className="iconsEducation"></img>
+                            <img alt='logo' src={API} className="iconsEducation shake shake-in1"></img>
                         </a>
                         <a href="https://github.com/Danyelss/license-spa-bank-react" target="_blank" rel="noreferrer">
-                            <img alt='logo' src={web} className="iconsEducation"></img>
+                            <img alt='logo' src={web} className="iconsEducation shake shake-in2"></img>
                         </a>
                         <a href="https://github.com/Danyelss/license-android-app-flutter" target="_blank" rel="noreferrer">
-                            <img alt='logo' src={mobile} className="iconsEducation"></img>
+                            <img alt='logo' src={mobile} className="iconsEducation shake shake-in3"></img>
                         </a>
 
                     </div>
